@@ -26,12 +26,12 @@ darkThemeMq.addListener(e => {
 
 
 
-if (valid == true) {
+if (valid === true) {
   // Keydown
   document.addEventListener('keydown', handleKeypress);
   
   function handleKeypress (e) {
-    if (e.code == "Enter") {
+    if (e.code === "Enter") {
       let search = document.getElementById('input').value
       open(search)
     }
