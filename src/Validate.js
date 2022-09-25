@@ -1,4 +1,3 @@
-import {config} from './Config.js';
 import * as icons from 'lucide-react';
 
 const validIcons = Object.keys(icons)
