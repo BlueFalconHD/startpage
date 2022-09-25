@@ -43,7 +43,7 @@ if (valid === true) {
 
 
 function App() {
-  if (valid == true) {
+  if (valid === true) {
     return (
       <div className="App">
         <h1 className="header">
