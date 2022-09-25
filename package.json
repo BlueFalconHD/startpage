@@ -1,8 +1,7 @@
 {
   "name": "startpage",
   "version": "0.1.0",
-  "homepage": "https://bluefalconhd.github.io/startpage"
-  "private": false,
+  "homepage": "https://bluefalconhd.github.io/startpage",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
